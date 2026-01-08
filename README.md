@@ -1,2 +1,2 @@
 # js-urdu
-Acode repo of learning javascript :)
+A code repo of learning javascript :)
